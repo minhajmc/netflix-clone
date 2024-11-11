@@ -1,0 +1,134 @@
+#a1{
+  height: 38px;
+  width: 137px;
+  border-radius: 7px;
+  
+}
+#a2{
+  margin-right: 100px;
+}
+
+.position-relative{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
+  height: 100vh;
+  background-position: 50%;
+  background-size: cover;
+  border-bottom: 5px solid red;
+ 
+
+}
+
+#a3{
+  width: 82px;
+  background-color: red;
+}
+.text{
+  position: relative;
+  size: 10%;
+
+  
+}
+#b1{
+  font-size: 300%;
+}
+#b7{
+  font-size: 320%;
+}
+#c1{
+  width: 215px;
+  border-radius: 5px;
+}
+#c2{
+  width: 30%;
+  height: 50px;
+  background: transparent;
+}
+#img{
+  position: relative;
+  top: auto;
+}
+#b3{
+ 
+  margin-top: 10%;
+}
+#aa1{
+  width: auto;
+}
+.main{
+  background: radial-gradient(30% 490% at 50% -420%, rgba(64, 97, 231, 0.4) 70%, rgba(0, 0, 0, 0.1) 100%), black;
+  width: 100%;
+  height: 450vh;
+}
+#a1{
+  background: transparent;
+}
+#aa2{
+  margin-left: 13px;
+}
+.ab1{
+  width: 120%;
+  line-height: 10px;
+  
+  size-adjust: 100px;
+  position: relative;
+  top: 208px;
+  right: auto;
+  color: red;
+
+
+}
+.card-img{
+  width: auto;
+  height: auto;
+}
+#d1{
+  width: 269px;
+  height: 315px;
+  position: relative;
+  top: 30px;
+  left: 11%;
+}
+#d2{
+  width: 269px;
+  height: 315px;
+  position: relative;
+  top: -284px;
+  left: 35%;
+}
+#d3{
+  width: 269px;
+  height: 315px;
+  position: relative;
+  top: -598px;
+  left: 59%;
+}
+.row{
+  width: auto;
+  height: auto;
+}
+#image img{
+  
+  border-radius: 8vh;
+}
+#image img:hover{
+  transform: scale(110%);
+  
+  
+ 
+}
+#e1{
+  margin-top: 30px;
+}
+.card{
+  background: linear-gradient(149deg, #192247 0%, #210e17 99.08%);
+}
+.text1{
+  color: rgba(255, 255, 255, 0.7);
+}
+.p-3 a{
+  color: rgba(255, 255, 255, 0.7);
+}
+.n1{
+  background: transparent;
+}
+
