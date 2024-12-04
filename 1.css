@@ -2,31 +2,24 @@
   height: 38px;
   width: 137px;
   border-radius: 7px;
-  
 }
 #a2{
   margin-right: 100px;
 }
-
 .position-relative{
   background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
   height: 100vh;
   background-position: 50%;
   background-size: cover;
   border-bottom: 5px solid red;
- 
-
 }
-
 #a3{
   width: 82px;
   background-color: red;
 }
 .text{
   position: relative;
-  size: 10%;
-
-  
+  size: 10%;  
 }
 #b1{
   font-size: 300%;
