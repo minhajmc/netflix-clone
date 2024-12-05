@@ -67,8 +67,6 @@
   top: 208px;
   right: auto;
   color: red;
-
-
 }
 .card-img{
   width: auto;
@@ -105,9 +103,6 @@
 }
 #image img:hover{
   transform: scale(110%);
-  
-  
- 
 }
 #e1{
   margin-top: 30px;
