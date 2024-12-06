@@ -14,8 +14,6 @@
   background-position: 50%;
   background-size: cover;
   border-bottom: 5px solid red;
- 
-
 }
 
 #a3{
@@ -24,9 +22,7 @@
 }
 .text{
   position: relative;
-  size: 10%;
-
-  
+  size: 10%;  
 }
 #b1{
   font-size: 300%;
@@ -48,7 +44,6 @@
   top: auto;
 }
 #b3{
- 
   margin-top: 10%;
 }
 #aa1{
